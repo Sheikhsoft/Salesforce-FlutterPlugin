@@ -21,9 +21,9 @@ Working in process
 Add this to your package's pubspec.yaml file:
 ```bash
 dependencies:
-  plugin1:
+  salesforce:
     git:
-      url: git://github.com/flutter/Salesforce-FlutterPlugin.git
+      url: git://github.com/Sheikhsoft/Salesforce-FlutterPlugin.git
 ``` 
 
 # 2. Install it
